@@ -1,1 +1,7 @@
 @import "./variables";
+@import "./reset";
+@import "./mixin";
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
